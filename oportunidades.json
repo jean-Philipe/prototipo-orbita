@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "titulo": "Olimpiada Chilena de Informática (OCI)",
+    "tipo": "Competencia técnica",
+    "descripcion": "Competencia nacional de programación algorítmica; clasifica a instancias internacionales.",
+    "nivelEducativo": "Básica y Media",
+    "requisitos": "Estar en enseñanza básica (desde 7°) o media. Conocimientos básicos de programación (Python, C++, Java)",
+    "postulacionInicio": "Abril",
+    "postulacionFin": "Mayo",
+    "realizacion": "Etapas entre junio y octubre (final nacional: octubre)",
+    "imagenes": ["Imagenes/1.1.jpeg", "Imagenes/1.2.jpeg"]
+  },
+  {
+    "id": 2,
+    "titulo": "FIRST LEGO League Chile",
+    "tipo": "Competencia de innovación y robótica",
+    "descripcion": "Equipos desarrollan un robot y un proyecto de innovación científica.",
+    "nivelEducativo": "Básica y Media",
+    "requisitos": "Equipos de 2 a 10 estudiantes. Acompañamiento de un coach adulto",
+    "postulacionInicio": "Junio",
+    "postulacionFin": "Agosto",
+    "realizacion": "Torneos regionales: octubre. Final nacional: noviembre",
+    "imagenes": ["Imagenes/2.1.jpeg"]
+  },
+  {
+    "id": 3,
+    "titulo": "Feria Nacional Juvenil de Ciencia y Tecnología (Explora)",
+    "tipo": "Congreso / feria científica",
+    "descripcion": "Presentación de proyectos de investigación escolar.",
+    "nivelEducativo": "Básica y Media",
+    "requisitos": "Proyecto científico desarrollado con asesor docente. Estudiantes de básica y media",
+    "postulacionInicio": "Mayo",
+    "postulacionFin": "Junio",
+    "realizacion": "Ferias regionales: agosto. Feria nacional: noviembre",
+    "imagenes": ["Imagenes/3.1.jpeg", "Imagenes/3.2.jpeg"]
+  },
+  {
+    "id": 4,
+    "titulo": "Technovation Girls (Chile)",
+    "tipo": "Competencia de tecnología y emprendimiento",
+    "descripcion": "Desarrollo de una app + pitch para resolver un problema social.",
+    "nivelEducativo": "Media",
+    "requisitos": "Mujeres entre 13 y 18 años. Equipos de 2-5 integrantes",
+    "postulacionInicio": "Octubre",
+    "postulacionFin": "Diciembre",
+    "realizacion": "Programa: enero – abril. Pitch regional/global: mayo",
+    "imagenes": ["Imagenes/4.1.jpeg", "Imagenes/4.2.jpeg"]
+  },
+  {
+    "id": 5,
+    "titulo": "Congreso Escolar de Ciencias (CONESC)",
+    "tipo": "Congreso académico escolar",
+    "descripcion": "Estudiantes presentan investigaciones en formato ponencia o póster.",
+    "nivelEducativo": "Media",
+    "requisitos": "Trabajo de investigación guiado. Estudiantes de enseñanza media",
+    "postulacionInicio": "Julio",
+    "postulacionFin": "Agosto",
+    "realizacion": "Congreso: octubre",
+    "imagenes": ["Imagenes/5.1.jpeg"]
+  },
+  {
+    "id": 6,
+    "titulo": "Olimpiada Nacional de Robótica (WRO Chile)",
+    "tipo": "Competencia técnica",
+    "descripcion": "Desafíos de robótica autónoma con misiones anuales.",
+    "nivelEducativo": "Básica y Media",
+    "requisitos": "Equipos escolares. Categorías por edad",
+    "postulacionInicio": "Mayo",
+    "postulacionFin": "Julio",
+    "realizacion": "Torneos: septiembre. Final nacional: octubre",
+    "imagenes": ["Imagenes/6.1.jpeg", "Imagenes/6.2.jpeg"]
+  },
+  {
+    "id": 7,
+    "titulo": "Desafío Solve for Tomorrow (Samsung)",
+    "tipo": "Innovación + emprendimiento escolar",
+    "descripcion": "Soluciones tecnológicas a problemas sociales reales.",
+    "nivelEducativo": "Media",
+    "requisitos": "Equipos de enseñanza media. Idea con base STEM",
+    "postulacionInicio": "Abril",
+    "postulacionFin": "Junio",
+    "realizacion": "Mentorías: julio – septiembre. Final nacional: octubre",
+    "imagenes": ["Imagenes/7.1.jpeg"]
+  },
+  {
+    "id": 8,
+    "titulo": "Torneo Delibera (Congreso Nacional)",
+    "tipo": "Liderazgo y políticas públicas",
+    "descripcion": "Equipos redactan y defienden un proyecto de ley juvenil.",
+    "nivelEducativo": "Media",
+    "requisitos": "Enseñanza media. Equipo + profesor guía",
+    "postulacionInicio": "Abril",
+    "postulacionFin": "Mayo",
+    "realizacion": "Regionales: agosto. Final nacional: octubre",
+    "imagenes": ["Imagenes/8.1.jpeg", "Imagenes/8.2.jpeg"]
+  },
+  {
+    "id": 9,
+    "titulo": "Bootcamp de Programación Escolar (Talento Digital Escolar)",
+    "tipo": "Taller intensivo técnico",
+    "descripcion": "Formación práctica en programación y pensamiento computacional.",
+    "nivelEducativo": "Media",
+    "requisitos": "Enseñanza media. Interés en tecnología (no siempre requiere experiencia previa)",
+    "postulacionInicio": "Marzo",
+    "postulacionFin": "Mayo",
+    "realizacion": "Vacaciones de invierno o verano (julio / enero)",
+    "imagenes": ["Imagenes/9.1.jpeg"]
+  },
+  {
+    "id": 10,
+    "titulo": "Encuentro Nacional de Estudiantes Investigadores (ENEI Escolar)",
+    "tipo": "Congreso académico",
+    "descripcion": "Encuentro nacional para presentar investigaciones escolares.",
+    "nivelEducativo": "Media",
+    "requisitos": "Investigación en curso o finalizada. Estudiantes de media",
+    "postulacionInicio": "Agosto",
+    "postulacionFin": "Septiembre",
+    "realizacion": "Noviembre",
+    "imagenes": ["Imagenes/10.1.jpeg"]
+  }
+]
+
